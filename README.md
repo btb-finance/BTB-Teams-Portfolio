@@ -259,10 +259,9 @@ Provide ways for users to reach out for support or with questions.
 
 If you have any questions or need assistance, feel free to reach out:
 
-- **Shahbaz (CEO & Owner):** shahbaz@btbfinance.com
-- **Aisha (Frontend Developer):** aisha@btbfinance.com
-- **Support Team:** support@btbfinance.com
-- **General Support:** hello@btbfinance.com
+
+
+- **General Support:** hello@btb.finance
 
 For general inquiries, you can also join our [Discord](https://discord.gg/bqFEPA56Tc) or contact us via [X](https://x.com/btb_finance).
 
