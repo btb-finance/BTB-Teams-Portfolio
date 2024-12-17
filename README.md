@@ -1,5 +1,3 @@
-
-
 # 📄 BTB Teams Portfolio
 
 ## 📚 Table of Contents
@@ -11,6 +9,7 @@
 6. [Contact Information](#6-contact-information)
 7. [License](#7-license)
 8. [Additional Tips](#8-additional-tips)
+9. [Next.js TypeScript Project Documentation](#9-nextjs-typescript-project-documentation)
 
 ---
 
@@ -294,6 +293,70 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 9. Next.js TypeScript Project Documentation
+
+### Overview
+
+A Next.js TypeScript project showcasing team members and their portfolios.
+
+### Features
+
+- 🚀 Built with Next.js and TypeScript
+- 💅 Styled with TailwindCSS
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance
+- 🔍 SEO Optimized
+
+### Getting Started
+
+First, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+Then, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Project Structure
+
+```
+├── src/
+│   ├── app/             # App router directory
+│   ├── components/      # Reusable components
+│   ├── types/          # TypeScript type definitions
+│   └── styles/         # Global styles
+├── public/             # Static assets
+└── tailwind.config.js  # Tailwind CSS configuration
+```
+
+### Demo Data
+
+The project currently includes demo data that can be replaced with real team member information. Demo data can be found in the respective component files.
+
+### Learn More
+
+To learn more about the technologies used in this project:
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
+---
+
 ## Final Notes
 
 - **Consistency:** Ensure that all internal links in your own `README.md` files are correct.
@@ -302,4 +365,3 @@ This project is licensed under the [MIT License](LICENSE).
 - **Email Addresses:** Since BTB Finance doesn't provide unique emails for each team member, please use your personal email addresses in your profiles.
 
 By following these simplified steps, you can easily create your own profile within the repository without the need to change or add any other files outside your own profile directory. This approach ensures the portfolio remains organized and professional while making the process straightforward for all team members.
-
