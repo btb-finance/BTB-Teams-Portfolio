@@ -1,4 +1,4 @@
-import { TeamMember } from '@/types/TeamMember'
+import { TeamMember } from '../types/TeamMember'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -14,6 +14,8 @@ export default function TeamMemberCard({ member }: TeamMemberCardProps) {
           src={member.image}
           alt={member.name}
           fill
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority={member.id === "001-JohnDoe"} // Priority for the first card
           className="object-cover"
         />
       </div>
